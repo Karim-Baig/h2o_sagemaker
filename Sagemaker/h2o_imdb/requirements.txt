@@ -1,0 +1,12 @@
+h2o==3.32.0.3
+autocorrect
+spacy==2.3.0,<2.4.0
+https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-2.3.1/en_core_web_lg-2.3.1.tar.gz#egg=en_core_web_lg
+#https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz#egg=en_core_web_sm
+spellchecker
+pyspellchecker
+gensim==3.8.3
+scikit-plot
+BeautifulSoup4==4.8.2
+dask[complete]
+scikit-learn==0.22.1
