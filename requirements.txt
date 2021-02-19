@@ -1,0 +1,8 @@
+h2o==3.32.0.3
+autocorrect
+spacy==2.2.0,<2.4.0
+gensim==3.8.3
+scikit-plot
+BeautifulSoup4==4.8.2
+scikit-learn==0.22.1
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz#egg=en_core_web_sm
